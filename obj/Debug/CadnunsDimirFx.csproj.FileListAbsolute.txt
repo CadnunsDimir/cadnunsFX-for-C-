@@ -1,0 +1,5 @@
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\Gerador de Listas - Salão do Reino\Auxiliar Lib\bin\Debug\AuxilarLib.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\Gerador de Listas - Salão do Reino\Auxiliar Lib\bin\Debug\AuxilarLib.pdb
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\Gerador de Listas - Salão do Reino\Auxiliar Lib\bin\Debug\MySql.Data.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\Gerador de Listas - Salão do Reino\Auxiliar Lib\obj\Debug\AuxilarLib.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\Gerador de Listas - Salão do Reino\Auxiliar Lib\obj\Debug\AuxilarLib.pdb
