@@ -6,7 +6,7 @@ using MySql.Data.MySqlClient;
 using System.Data;
 
 
-namespace CadnunsDimirFx.Data.MySql
+namespace CadnunsFx.Data.MySql
 {
     public class MySqlConn 
     {

@@ -1,0 +1,14 @@
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\AuxilarLib.dll.config
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\AuxilarLib.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\AuxilarLib.pdb
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\EntityFramework.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\MySql.Data.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\MySql.Data.Entity.EF5.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\MySql.Fabric.Plugin.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\MySql.Web.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\System.Data.SQLite.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\EntityFramework.xml
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\bin\Release\System.Data.SQLite.xml
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\obj\Release\AuxilarLib.dll
+C:\Users\Tiagop\Documents\Visual Studio 2012\Projects\CadnunsFx.WinForms.AppSquite\CadnunsFx.Utils\obj\Release\AuxilarLib.pdb
