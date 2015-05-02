@@ -68,6 +68,7 @@
       <HintPath>..\packages\System.Data.SQLite.Core.1.0.96.0\lib\net45\System.Data.SQLite.dll</HintPath>
     </Reference>
     <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -75,6 +76,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Automation\PortaSerial.cs" />
     <Compile Include="Data\LocalDBConn.cs" />
     <Compile Include="Data\SqliteConn.cs" />
     <Compile Include="FakeLists.cs" />
@@ -82,6 +84,7 @@
     <Compile Include="Data\MySqlConn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reunioes\Arranjos.cs" />
+    <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
