@@ -76,6 +76,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Automation\Example\PortaSerial_Exemplo.cs" />
     <Compile Include="Automation\PortaSerial.cs" />
     <Compile Include="Data\LocalDBConn.cs" />
     <Compile Include="Data\SqliteConn.cs" />
