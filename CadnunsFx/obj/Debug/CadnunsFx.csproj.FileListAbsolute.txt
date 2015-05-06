@@ -1,0 +1,16 @@
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\obj\Debug\CadnunsFx.csprojResolveAssemblyReference.cache
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\CadnunsFx.dll.config
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\CadnunsFx.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\CadnunsFx.pdb
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\EntityFramework.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\EntityFramework.SqlServer.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\System.Data.SQLite.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\System.Data.SQLite.EF6.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\System.Data.SQLite.Linq.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\EntityFramework.xml
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\EntityFramework.SqlServer.xml
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\bin\Debug\System.Data.SQLite.xml
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\obj\Debug\CadnunsFx.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\CadnunsFx\obj\Debug\CadnunsFx.pdb
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\obj\Debug\CadnunsFx.dll
+G:\Informática\Projetos - Linguagens Programação\Visual C#\CadnunsFx.v02\obj\Debug\CadnunsFx.pdb
